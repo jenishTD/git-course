@@ -1,4 +1,8 @@
 hello word;
 this is a second line;
 this is the fourth line;
-lazy brow cat line;
+<<<<<<< HEAD
+lazy brow chicken line;
+=======
+lazy brow chicken line;
+>>>>>>> branch2
